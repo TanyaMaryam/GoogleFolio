@@ -55,7 +55,7 @@ const BoxMenuDrop = () => {
         }
       >
         <div className="drop-item" >
-          <a className="drop-link" href="https://drive.google.com/file/d/1CJ6YLyVmCZLCR8R2wHQ8BbuL__rieN7p/view">
+          <a className="drop-link" href="https://drive.google.com/file/d/157-JdKw4IDAMsjOCifJV5YV4H-9IHOdy/view?usp=drive_link">
             <img
               src={suitcase}
               alt=""
